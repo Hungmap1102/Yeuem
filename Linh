@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dành cho em ❤️</title>
+  <style>
+    body{
+      margin:0;
+      background:#000;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      height:100vh;
+    }
+    video{
+      width:100%;
+      max-width:500px;
+      border-radius:12px;
+    }
+  </style>
+</head>
+<body>
+
+<video controls autoplay>
+  <source src="7d0f2d22a9a944e2a5966769f67f701d.MOV" type="video/mp4">
+  Trình duyệt của bạn không hỗ trợ video.
+</video>
+
+</body>
+</html>
+
